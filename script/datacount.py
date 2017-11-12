@@ -38,7 +38,7 @@ axes.set_ylabel('Number Training Examples')
 axes.xaxis.set_major_locator(MaxNLocator(integer=True))
 
 
-fig.suptitle("Training Image Count by Category over Hierarchicial Levels")
+fig.suptitle("Training Image Count by Category over Hierarchy Levels")
 
 fig.subplots_adjust(hspace=0.4)
 
